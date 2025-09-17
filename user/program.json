@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": "0000",
+      "realname": "财务系统V2.1",
+      "deptname": "张三",
+      "grade": "2024.9.1",
+      "telephone": "12345678901",
+      "status": "启用"
+    },
+	{
+	  "id": "0001",
+	  "realname": "报表系统V1.5",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0002",
+	  "realname": "移动后台应用",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0003",
+	  "realname": "人力资源管理系统",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0004",
+	  "realname": "企业办公自动化系统",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0005",
+	  "realname": "数据分析与可视化平台",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0006",
+	  "realname": "生产管理系统",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0007",
+	  "realname": "进销存管理系统",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0008",
+	  "realname": "供应链管理平台",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	},
+	{
+	  "id": "0009",
+	  "realname": "客户关系管理系统",
+	  "deptname": "张三",
+	  "grade": "2024.9.1",
+	  "telephone": "12345678901",
+	  "status": "启用"
+	}
+  ]
+}

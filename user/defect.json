@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": "#BUG-202",
+      "realname": "用户注册时手机验证码发送失败",
+      "deptname": "严重",
+      "grade": "待修复",
+      "telephone": "张三"
+    },
+	{
+	  "id": "#BUG-198",
+	  "realname": "数据导出Excel格式错乱",
+	  "deptname": "高",
+	  "grade": "修复中",
+	  "telephone": "李四"
+	},
+	{
+	  "id": "#BUG-195",
+	  "realname": "搜索页面分页显示不正确",
+	  "deptname": "中",
+	  "grade": "已修复",
+	  "telephone": "王五"
+	}
+  ]
+}
